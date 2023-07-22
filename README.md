@@ -1,2 +1,3 @@
 # Sudoku-Solver
-A program that solves any sudoku problem input by the user
+A crude program to compute the solution of a sudoku problem if possible.
+The the problem has to be input into the program itself
